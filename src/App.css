@@ -1,38 +1,164 @@
-.App {
+/* span{
+  color: red;
+}
+
+#sec{
+  padding: 20px;
   text-align: center;
+  margin: auto;
+  margin-top: 1%;
+  width: 400px;
+  height: auto;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  border: 5px solid white;
+  box-shadow: 2px 2px 2px 2px white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#login{
+  width: 51%;
+  margin: auto;
+}
+#inner{
+  margin: auto;
+  width: 80%;
+  height: auto;
+}
+input[type = 'text']{
+  margin: 0px;
+  width: 95%;
+  height: 45%;
+  border-radius: 10px 0px 0px 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border-top: 4px solid white;
+  border-left: 4px solid white;
+  border-right: none;
+  border-bottom: 4px solid white;
+  padding: 5px;
+}
+select[name = 'gender']{
+  margin: 0px;
+  width: 100%;
+  height: 45%;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: 4px solid white;
+
+  padding: 5px;
+
+}
+input[type = 'file']{
+  margin: 0px;
+  width: 95%;
+  height: 35%;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: 4px solid white;
+  padding: 5px;
+
+}
+select[name = 'branch']{
+  margin: 0px;
+  width: 100%;
+  height: 45%;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: 4px solid white;
+  
+  padding: 5px;
+
+}
+input[type= 'email']{
+  margin: 0px;
+  width: 95%;
+  height: 35%;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: 4px solid white;
+
+  padding: 5px;
+
+}
+#phon{
+  margin: 0px;
+  width: 95%;
+  height: 35%;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: 4px solid white;
+  padding: 5px;
+
+}
+#password2{
+  margin: 0px;
+  width: 95%;
+  height: 35%;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border: 4px solid white;
+  padding: 5px;
+}
+input[type = 'password']{
+  margin: 0px;
+  width: 95%;
+  height: 45%;
+  border-radius: 10px 0px 0px 10px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  border-top: 4px solid white;
+  border-left: 4px solid white;
+  border-right: none;
+  border-bottom: 4px solid white;
+  padding: 5px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+button{
+  width: 100%;
+  height: 45%;
+  border-radius: 10px;
+  font-size: 16px;
+  border: 5px solid white;
+  padding: 15px 10px;
+}
+#doNot{
+  margin: auto;
+  width: 68%;
+}
+.inputDivContainer{
+  border: none;
   display: flex;
-  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+  height: 60%;
+}
+
+.inputDivContainer div{
+  border-radius: 0px 10px 10px 0px;
+  width: 50px;
+  height: 62%;
+  border-top: 4px solid white;
+  border-right: 4px solid white;
+  border-left: none;
+  border-bottom: 4px solid white;
+}
+#userPng{
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
+  height: auto;
 }
+#passPng{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: auto;
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+} */
